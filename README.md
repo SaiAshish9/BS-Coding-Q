@@ -45,3 +45,7 @@ import java.util.*;
    {                 count++;             }         }
     System.out.print(count);       } }
 ```
+
+```
+2hrs 2Qs
+```
